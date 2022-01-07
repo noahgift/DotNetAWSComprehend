@@ -55,6 +55,9 @@ The output is below.
 
 #### Going further with Bash shell processing and AWS entity extraction
 
+![pipeline](https://user-images.githubusercontent.com/58792/148614301-0d739107-3923-4f6e-b3fa-a47222300cc3.png)
+
+
 Next let's move on to trying to do another more AWS Comprehend action
 
 ```bash
