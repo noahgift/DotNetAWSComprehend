@@ -12,6 +12,9 @@ aws comprehend detect-sentiment \
     --text "I love C#."
 ```
 
+
+#### Using lynx to dump text
+
 You can also use lynx to go further.
 
 `sudo yum install lynx`
@@ -49,3 +52,13 @@ The output is below.
     }
 }
 ```
+
+#### Going further with Bash shell processing and AWS entity extraction
+
+Next let's move on to trying to do another more AWS Comprehend action
+
+`aws comprehend detect-entities --language-code "en" --text "$TEXT" --output text | head`
+
+
+
+
