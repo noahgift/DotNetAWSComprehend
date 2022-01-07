@@ -64,6 +64,6 @@ aws comprehend detect-entities \
     --output text | head
 ```
 
-
+* You see a more complex pipeline here:  [ai-pipeline-aws.sh](https://github.com/noahgift/DotNetAWSComprehend/blob/main/ai-pipeline-aws.sh)
 
 
