@@ -69,4 +69,8 @@ aws comprehend detect-entities \
 
 * You see a more complex pipeline here:  [ai-pipeline-aws.sh](https://github.com/noahgift/DotNetAWSComprehend/blob/main/ai-pipeline-aws.sh)
 
+## References
+
+* [Prototyping AI apis aws cloudshell bash on YouTube](https://www.youtube.com/watch?v=o469kbmh_iM)
+
 
