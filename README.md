@@ -57,7 +57,12 @@ The output is below.
 
 Next let's move on to trying to do another more AWS Comprehend action
 
-`aws comprehend detect-entities --language-code "en" --text "$TEXT" --output text | head`
+```bash
+aws comprehend detect-entities \
+    --language-code "en" \
+    --text "$TEXT" \
+    --output text | head
+```
 
 
 
