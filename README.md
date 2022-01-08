@@ -114,3 +114,5 @@ namespace Comprehend
 
 * [Prototyping AI apis aws cloudshell bash on YouTube](https://www.youtube.com/watch?v=o469kbmh_iM)
 * [Prototyping AI apis aws cloudshell bash on O'Reilly](https://learning.oreilly.com/videos/prototyping-aws-ai/01072022VIDEOPAIML/)
+* [Building AI APIs with .NET 6 and AWS Comprehend on YouTube](https://youtu.be/zhiNMmg8FxA)
+* [Building AI APIs with .NET 6 and AWS Comprehend on O'Reilly](https://learning.oreilly.com/videos/building-ai-apis/01082022VIDEOPAIML/)
