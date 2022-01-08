@@ -72,5 +72,4 @@ aws comprehend detect-entities \
 ## References
 
 * [Prototyping AI apis aws cloudshell bash on YouTube](https://www.youtube.com/watch?v=o469kbmh_iM)
-
-
+* [Prototyping AI apis aws cloudshell bash on O'Reilly](https://learning.oreilly.com/videos/prototyping-aws-ai/01072022VIDEOPAIML/)
