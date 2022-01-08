@@ -14,7 +14,7 @@ namespace Comprehend
             Console.WriteLine("AWS AI API Sentiment Detector" + Environment.NewLine);
 
             // Ask for phrase
-            Console.WriteLine("What phrase would you like to Detect Sentiment From? " + Environment.NewLine);
+            Console.WriteLine("Type in phrase for analysis" + Environment.NewLine);
             var phrase = Console.ReadLine();
             
             // Detect Sentiment
@@ -33,3 +33,4 @@ namespace Comprehend
         }
     }
 }
+
